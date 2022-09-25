@@ -1,0 +1,13 @@
+.container{
+	width: 700px;
+	height: 700px;
+}
+.row{
+	width: 100%;
+	display: flex;
+}
+.col{
+	height: 100%;
+	border: .5px solid;
+	/*background-color: blueviolet;*/
+}
